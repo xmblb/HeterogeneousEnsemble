@@ -1,4 +1,4 @@
-The codes support the manuscript entitled "A comparative study of heterogeneous ensemble- learning techniques for landslide susceptibility mapping".
+The codes support the manuscript entitled "A comparative study of heterogeneous ensemble-learning techniques for landslide susceptibility mapping".
 
 Abstract:
 
